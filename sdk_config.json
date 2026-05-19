@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "config": {
+    "telemetry_enabled": true,
+    "sample_rate": 0.05,
+    "flush_interval": 30,
+    "endpoints": [
+      "https://telemetry.example.com/v1/events"
+    ],
+    "build_id": "293cf53e9fe3e7e7e5a176dccd650671a13350345d87f88fcbe0c72fe3b4e286"
+  }
+}
